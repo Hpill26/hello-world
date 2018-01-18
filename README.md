@@ -1,2 +1,2 @@
 # hello-world
-leaning git hub uses
+learning git hub uses
